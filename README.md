@@ -1,1 +1,0 @@
-This is the code that I will be using for my code blog for CS 290.
